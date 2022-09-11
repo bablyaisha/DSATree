@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e207d929-4e08-422d-a353-8ae7793d0e96" name="Changes" comment="DSATree">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e207d929-4e08-422d-a353-8ae7793d0e96" name="Changes" comment="DSA tree" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +62,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662905920326</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DSATree">
+      <created>1662906288506</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662906288506</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DSATree">
+      <created>1662906562683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662906562683</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DSA tree">
+      <created>1662906594853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662906594853</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DSATree" />
-    <option name="LAST_COMMIT_MESSAGE" value="DSATree" />
+    <MESSAGE value="DSA tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA tree" />
   </component>
 </project>
