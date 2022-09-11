@@ -1,5 +1,5 @@
 public class BuildTree {
-
+    //creating Node
     static class Node{
         int data;
         Node left;
