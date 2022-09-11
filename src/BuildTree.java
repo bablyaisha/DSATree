@@ -13,9 +13,7 @@ public class BuildTree {
     }
 
     static class BinaryTree{
-
         static int index=-1;
-
         public static Node tree(int[] nodes){
           index++;
           if(nodes[index]== -1){
