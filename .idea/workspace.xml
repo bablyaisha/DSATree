@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e207d929-4e08-422d-a353-8ae7793d0e96" name="Changes" comment="Binary Tree Done">
+    <list default="true" id="e207d929-4e08-422d-a353-8ae7793d0e96" name="Changes" comment="BST(All_Operatin)">
+      <change afterPath="$PROJECT_DIR$/src/BST_Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST_Range.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,38 +31,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/HP/IdeaProjects/BubbleSort"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/BubbleSort&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.BottomView">
+}</component>
+  <component name="RunManager" selected="Application.BST_Path">
+    <configuration name="BST_Delete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BST_Delete" />
+      <module name="Tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BST_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BST_Path" />
+      <module name="Tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BST_Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BST_Range" />
+      <module name="Tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BottomView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BottomView" />
-      <module name="Tree" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HeightTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HeightTree" />
-      <module name="Tree" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeftAndRightView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeftAndRightView" />
-      <module name="Tree" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Subtree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Subtree" />
       <module name="Tree" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BST_Path" />
+        <item itemvalue="Application.BST_Range" />
+        <item itemvalue="Application.BST_Delete" />
         <item itemvalue="Application.BottomView" />
         <item itemvalue="Application.TopView" />
-        <item itemvalue="Application.LeftAndRightView" />
-        <item itemvalue="Application.Subtree" />
-        <item itemvalue="Application.HeightTree" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663018440129</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="BST(All_Operatin)">
+      <created>1663402498277</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663402498277</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +183,7 @@
     <MESSAGE value="DSA tree" />
     <MESSAGE value="traversals" />
     <MESSAGE value="Binary Tree Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree Done" />
+    <MESSAGE value="BST(All_Operatin)" />
+    <option name="LAST_COMMIT_MESSAGE" value="BST(All_Operatin)" />
   </component>
 </project>
